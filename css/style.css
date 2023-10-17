@@ -1,0 +1,33 @@
+.backgroundDisplay {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: white;
+    text-align: center;
+  }
+
+  .abstractBackground {
+    height: 400px;
+    background-image: url("images/space-7709489_1280.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .laptop-skill {
+    margin: 15px;
+ }
+
+ .skill-one {
+    margin: 20px;
+ }
+
+ .about-me {
+    margin: 20px;
+ }
+
+ span {
+   color: #A6C3CE;
+ }
